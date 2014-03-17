@@ -19,7 +19,7 @@ public class PascalTriangleGenerator {
 		BigInteger demon = kFact.multiply(factNMinusK);
 		return nFact.divide(demon); 
 	}
-	
+	//lksajf
 	public String generatePascalTriagle(int x) throws Exception
 	{
 		String result = ""; 
